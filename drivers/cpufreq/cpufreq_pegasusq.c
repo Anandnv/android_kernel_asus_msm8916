@@ -57,7 +57,7 @@
 #define DEF_START_DELAY				(0)
 
 #define UP_THRESHOLD_AT_MIN_FREQ		(40)
-#define FREQ_FOR_RESPONSIVENESS			(1190400)
+#define FREQ_FOR_RESPONSIVENESS			(1094400)
 /* for fast decrease */
 #define FREQ_FOR_FAST_DOWN			(800000)
 #define UP_THRESHOLD_AT_FAST_DOWN		(80)
